@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is: Robert Baller :)
+My name is: R0b327
 
 - 🔭 I’m currently working on computer programming...
 - 🌱 I’m currently learning ...
