@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is: Robert Baller
+My name is: Rob
 
 - 🔭 I’m currently working on computer programming...
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
-- 📫 How to reach me: robertballerofficial@gmail.com
+- 📫 How to reach me: https://m.me/FDc0d3
