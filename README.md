@@ -8,7 +8,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0b327&show_icons=true&theme=vue)&nbsp;&nbsp;
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0b327&layout=compact&theme=vue)</div>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/R0b327hit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/R0b327hit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)]()
 
 ### BTC Network Donation:
 ```1Bdv7iE4o1jNCdcj8LdqVpXS6mYHMWKAHp```
