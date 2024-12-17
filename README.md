@@ -1,12 +1,3 @@
-### Hi there 👋
-
-My name is: Rob
-
-- 🔭 I’m currently working on computer programming...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: https://m.me/B3RT27
-
 <div align=center>
 <img src="https://img.shields.io/badge/Python-0098FF?style=flat-square&logo=python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-99CC00?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp;
